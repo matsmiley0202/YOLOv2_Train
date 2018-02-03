@@ -1,2 +1,4 @@
-# YOLOv2_Train
-scripts for training YOLOv2
+# How to train from zero
+
+##More details could be found here:
+https://www.linkedin.com/pulse/how-train-yolo-from-zero-yan-pang/
