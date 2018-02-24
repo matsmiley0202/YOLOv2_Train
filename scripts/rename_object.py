@@ -9,7 +9,7 @@ os.mkdir(path1)
 for file in os.listdir(path0):
     if os.path.isfile(os.path.join(path0,file))==True:
        temp_Digits = os.path.splitext(file)[0].split('_')[0]
-	   print temp_Digits
+       print temp_Digits
        if temp_Digits == 'n02068974':
           temp_English = 'dolphin'
        elif temp_Digits == 'n01482330':
