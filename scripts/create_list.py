@@ -1,3 +1,5 @@
+# Please copy this script to the directory VOCdevkit/VOC2007/ first
+
 import os  
 from os import listdir, getcwd  
 from os.path import join
